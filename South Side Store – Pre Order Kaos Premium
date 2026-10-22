@@ -1,0 +1,500 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://3voadr.netlify.app/#admin
+Subject: =?utf-8?Q?South=20Side=20Store=20=E2=80=93=20Pre=20Order=20Kaos=20Premium?=
+Date: Thu, 22 Oct 2026 16:32:00 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--HyWDkI57usHH1xQfwZtfoZXYYfNMQKlwPrfhTdMadW----"
+
+
+------MultipartBoundary--HyWDkI57usHH1xQfwZtfoZXYYfNMQKlwPrfhTdMadW----
+Content-Type: text/html
+Content-ID: <frame-DBF5848FE9356A095CD22C8E6BA79D8B@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://3voadr.netlify.app/#admin
+
+<!DOCTYPE html><html lang="id"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-45d15287-952a-441e-9327-b24d96b42fa0@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-edfdf98a-08d6-4884-8684-1951d5c6a64a@mhtml.blink" />
+
+<!-- This site is hosted on Netlify. Anyone can build and deploy a site
+     like this one for free: https://netlify.new/?utm_campaign=loops&utm_source=ai-legible&utm_medium=owned&utm_content=comment&utm_id=fa794f74-5748-4bee-b1ae-27b602dcee44
+     Netlify hosting facts for this site: static/SSR served via Netlify Edge. -->
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>South Side Store – Pre Order Kaos Premium</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&amp;family=Playfair+Display:wght@400;500;600&amp;family=Cinzel:wght@400;500;600&amp;family=Jost:wght@300;400;500&amp;display=swap" rel="stylesheet">
+
+</head>
+<body>
+<nav id="nav">
+  <div class="logo">South Side Store<small>PRE ORDER</small></div>
+  <a>Koleksi</a>
+  <a>Cara Pesan</a>
+  <a>Pengelola</a>
+  <a>Masuk</a>
+  <button class="btn s">Keranjang <span class="badge">0</span></button></nav><main id="main"><div class="hero">
+    <div>
+      <h1>selamat datang di selatan <em>GUINIVER STORE</em></h1>
+      <p>Dipesan lebih dulu, dibuat dengan sepenuh hati</p>
+      <div id="cd" class="cd"><div><b>13</b><span>Hari</span></div><div><b>23</b><span>Jam</span></div><div><b>48</b><span>Menit</span></div><div><b>25</b><span>Detik</span></div></div>
+      <button class="btn">Pesan Sekarang</button>
+    </div>
+  </div>
+  
+  <section id="koleksi"><div class="wrap">
+    <div class="ttl"><h2>Koleksi Terbatas</h2><p>Pilih produk favorit Anda sebelum kuota habis.</p></div>
+    <div class="grid">
+      
+    </div>
+  </div></section>
+
+  <section id="cara" style="background:var(--bg2)"><div class="wrap">
+    <div class="ttl"><h2>Cara Pemesanan</h2></div>
+    <div class="steps">
+      <div><h3>1. Pilih Kaos</h3><p class="sm">Pilih desain dan ukuran kaos favorit yang ingin dipesan.</p></div>
+      <div><h3>2. Pembayaran</h3><p class="sm">Transfer BCA, QRIS, atau E-wallet DANA / GoPay (DP 50% atau Lunas).</p></div>
+      <div><h3>3. Kirim Struk</h3><p class="sm">Konfirmasi pembayaran dan kirimkan bukti/struk ke WA Admin Rayhan Pratama.</p></div>
+      <div><h3>4. Pengiriman</h3><p class="sm">Kaos diproduksi dan dikirim langsung ke alamat rumah Anda.</p></div>
+    </div>
+  </div></section></main><div id="drawer"></div><div id="modal"></div>
+
+
+
+
+
+<iframe id="nl-badge-frame" title="Powered by Netlify" src="cid:frame-27F1B19DA0219425D3E98BDA995E2F9A@mhtml.blink" style="position: fixed; bottom: 0px; right: 0px; border: 0px; margin: 0px; padding: 0px; background: transparent; color-scheme: dark; z-index: 2147483645; width: 189px; height: 63px; clip-path: path(&quot;M 3 3 H 176 V 50 H 3 Z&quot;);" data-nl-ready="1"></iframe><footer>
+    <p>Pertanyaan pesanan? Hubungi WhatsApp Admin Rayhan Pratama: 0838-9687-1239</p>
+    <p class="sm" id="admin-secret-trigger" style="cursor:default;user-select:none" title="Klik 3x untuk login admin">© 2026 South Side Store. All rights reserved.</p>
+  </footer></body></html>
+------MultipartBoundary--HyWDkI57usHH1xQfwZtfoZXYYfNMQKlwPrfhTdMadW----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600&family=Cinzel:wght@400;500;600&family=Jost:wght@300;400;500&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Cinzel; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=8vIj7ww63mVu7gtR-kwKxNvkNOjw-tbnL4HN_JbF1aPAUkgFuW-Uu3j7GVGG&skey=f319ae43d1034808&v=v26") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Cinzel; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=8vIj7ww63mVu7gtR-kwKxNvkNOjw-tbnL4HN_JbF1aPAUkgFuW-au3j7GVGG&skey=f319ae43d1034808&v=v26") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Cinzel; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=8vIj7ww63mVu7gtR-kwKxNvkNOjw-tbnL4HN_JbF1aPAUkgFuW-Uu3j7GVGG&skey=f319ae43d1034808&v=v26") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Cinzel; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=8vIj7ww63mVu7gtR-kwKxNvkNOjw-tbnL4HN_JbF1aPAUkgFuW-au3j7GVGG&skey=f319ae43d1034808&v=v26") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Cinzel; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=8vIj7ww63mVu7gtR-kwKxNvkNOjw-tbnL4HN_JbF1aPAUkgFuW-Uu3j7GVGG&skey=f319ae43d1034808&v=v26") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Cinzel; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=8vIj7ww63mVu7gtR-kwKxNvkNOjw-tbnL4HN_JbF1aPAUkgFuW-au3j7GVGG&skey=f319ae43d1034808&v=v26") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhaP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhTP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhYP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhZP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhXP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhaP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhTP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhYP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhZP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhXP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhaP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhTP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhYP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhZP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhXP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhaP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhTP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhYP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhZP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Cormorant Garamond"; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=co3hmX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86eHjmeyOkkv20ULzTxhhXP9yI5uY2&skey=a863d1376a24bd7a&v=v21") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Jost; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=92z8tBhPNqw79Ij1E865zBUv7mz9JWdNHHnUBkLNPUtG8P1mORTImqNU7g&skey=4145fd5d1d5ac665&v=v20") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Jost; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=92z8tBhPNqw79Ij1E865zBUv7mz9JWdNHHnUBkLNPUtG8P1mMxTImqNU7g&skey=4145fd5d1d5ac665&v=v20") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Jost; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=92z8tBhPNqw79Ij1E865zBUv7mz9JWdNHHnUBkLNPUtG8P1mPRTImqNU7g&skey=4145fd5d1d5ac665&v=v20") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Jost; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=92z8tBhPNqw79Ij1E865zBUv7mz9JWdNHHnUBkLNPUtG8P1mORTImqNU7g&skey=4145fd5d1d5ac665&v=v20") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Jost; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=92z8tBhPNqw79Ij1E865zBUv7mz9JWdNHHnUBkLNPUtG8P1mMxTImqNU7g&skey=4145fd5d1d5ac665&v=v20") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Jost; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=92z8tBhPNqw79Ij1E865zBUv7mz9JWdNHHnUBkLNPUtG8P1mPRTImqNU7g&skey=4145fd5d1d5ac665&v=v20") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Jost; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=92z8tBhPNqw79Ij1E865zBUv7mz9JWdNHHnUBkLNPUtG8P1mORTImqNU7g&skey=4145fd5d1d5ac665&v=v20") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Jost; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=92z8tBhPNqw79Ij1E865zBUv7mz9JWdNHHnUBkLNPUtG8P1mMxTImqNU7g&skey=4145fd5d1d5ac665&v=v20") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Jost; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=92z8tBhPNqw79Ij1E865zBUv7mz9JWdNHHnUBkLNPUtG8P1mPRTImqNU7g&skey=4145fd5d1d5ac665&v=v20") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=nuFcD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvSLbRiIwYe6tDkqUBOz5dLvhTU8Qqw&skey=f3b68f0152604ed9&v=v40") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=nuFcD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvSLbRiIwYe6tDkqUBOz5f7vhTU8Qqw&skey=f3b68f0152604ed9&v=v40") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=nuFcD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvSLbRiIwYe6tDkqUBOz5frvhTU8Qqw&skey=f3b68f0152604ed9&v=v40") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=nuFcD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvSLbRiIwYe6tDkqUBOz5cLvhTU8Qqw&skey=f3b68f0152604ed9&v=v40") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=nuFcD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvSLbRiIwYe6tDkqUBOz5dLvhTU8Qqw&skey=f3b68f0152604ed9&v=v40") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=nuFcD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvSLbRiIwYe6tDkqUBOz5f7vhTU8Qqw&skey=f3b68f0152604ed9&v=v40") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=nuFcD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvSLbRiIwYe6tDkqUBOz5frvhTU8Qqw&skey=f3b68f0152604ed9&v=v40") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=nuFcD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvSLbRiIwYe6tDkqUBOz5cLvhTU8Qqw&skey=f3b68f0152604ed9&v=v40") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=nuFcD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvSLbRiIwYe6tDkqUBOz5dLvhTU8Qqw&skey=f3b68f0152604ed9&v=v40") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=nuFcD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvSLbRiIwYe6tDkqUBOz5f7vhTU8Qqw&skey=f3b68f0152604ed9&v=v40") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=nuFcD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvSLbRiIwYe6tDkqUBOz5frvhTU8Qqw&skey=f3b68f0152604ed9&v=v40") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/l/font?kit=nuFcD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvSLbRiIwYe6tDkqUBOz5cLvhTU8Qqw&skey=f3b68f0152604ed9&v=v40") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--HyWDkI57usHH1xQfwZtfoZXYYfNMQKlwPrfhTdMadW----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-edfdf98a-08d6-4884-8684-1951d5c6a64a@mhtml.blink
+
+@charset "utf-8";
+
+:root, :root:not([data-theme="dark"]) { --gold: #639141; --gold2: #639141; }
+
+h1, h2, h3, .logo, .cd b, .pr, .stats b { font-family: Cinzel, Georgia, serif; }
+------MultipartBoundary--HyWDkI57usHH1xQfwZtfoZXYYfNMQKlwPrfhTdMadW----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-45d15287-952a-441e-9327-b24d96b42fa0@mhtml.blink
+
+@charset "utf-8";
+
+:root { --bg: #0d1526; --bg2: #131e36; --card: #17233f; --tx: #f3eee2; --mu: #a9b0c0; --gold: #c9a96a; --gold2: #e6cf9c; --ln: rgba(201,169,106,.28); --err: #e07a7a; --ok: #7fc8a0; color-scheme: dark; box-sizing: border-box; padding-top: env(safe-area-inset-top,0px); padding-bottom: env(safe-area-inset-bottom,0px); }
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) { --bg: #f6f2e8; --bg2: #ece5d4; --card: #fffdf7; --tx: #16203a; --mu: #5d6479; --gold: #8f6f2c; --gold2: #6e5320; --ln: rgba(143,111,44,.35); --err: #b23b3b; --ok: #2d7a52; color-scheme: light; }
+}
+
+:root[data-theme="dark"] { --bg: #0d1526; --bg2: #131e36; --card: #17233f; --tx: #f3eee2; --mu: #a9b0c0; --gold: #c9a96a; --gold2: #e6cf9c; --ln: rgba(201,169,106,.28); color-scheme: dark; }
+
+* { box-sizing: border-box; }
+
+html { scroll-padding-top: env(safe-area-inset-top,0px); scroll-behavior: smooth; }
+
+body { margin: 0px; background: var(--bg); color: var(--tx); font: 300 16px / 1.65 Jost, system-ui, sans-serif; }
+
+h1, h2, h3 { font-family: "Cormorant Garamond", Georgia, serif; font-weight: 500; margin: 0px; line-height: 1.1; }
+
+button, input, select, textarea { font: inherit; color: inherit; }
+
+body::before { content: ""; position: fixed; inset: 0px 0px auto; height: env(safe-area-inset-top,0px); background: var(--bg); z-index: 60; }
+
+nav { position: sticky; top: env(safe-area-inset-top,0px); z-index: 50; display: flex; align-items: center; gap: 18px; padding: 14px 5vw; background: var(--bg); border-bottom: 1px solid var(--ln); }
+
+.logo { font-family: "Cormorant Garamond", serif; font-size: 26px; font-weight: 600; letter-spacing: 0.06em; color: var(--gold); cursor: pointer; margin-right: auto; }
+
+.logo small { font: 300 11px Jost; letter-spacing: 0.3em; margin-left: 8px; color: var(--mu); }
+
+nav a { cursor: pointer; color: var(--mu); font-size: 14px; letter-spacing: 0.04em; }
+
+nav a:hover { color: var(--gold); }
+
+.btn { display: inline-block; border: 1px solid var(--gold); background: var(--gold); color: rgb(16, 24, 40); padding: 11px 26px; cursor: pointer; font-weight: 500; letter-spacing: 0.05em; transition: 0.2s; text-align: center; text-decoration: none; }
+
+.btn:hover { background: var(--gold2); }
+
+.btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.btn.o { background: transparent; color: var(--gold); }
+
+.btn.o:hover { background: var(--gold); color: rgb(16, 24, 40); }
+
+.btn.s { padding: 6px 14px; font-size: 13px; }
+
+.btn.d { border-color: var(--err); color: var(--err); background: transparent; }
+
+:focus-visible { outline: 2px solid var(--gold2); outline-offset: 2px; }
+
+.badge { background: var(--gold); color: rgb(16, 24, 40); border-radius: 99px; font-size: 11px; padding: 1px 7px; margin-left: 4px; }
+
+.hero { min-height: 82vh; display: grid; place-items: center; text-align: center; padding: 9vh 6vw; background: radial-gradient(ellipse at 50% 0,var(--bg2),var(--bg) 70%); border-bottom: 1px solid var(--ln); }
+
+.hero h1 { font-size: clamp(46px, 9vw, 112px); font-weight: 400; letter-spacing: 0.02em; }
+
+.hero h1 em { display: block; font-size: 0.42em; font-style: italic; color: var(--gold); letter-spacing: 0.12em; margin-top: 10px; }
+
+.hero p { max-width: 520px; margin: 22px auto 30px; color: var(--mu); }
+
+.cd { display: flex; gap: 14px; justify-content: center; margin: 26px 0px 34px; }
+
+.cd div { border: 1px solid var(--ln); min-width: 74px; padding: 12px 6px; }
+
+.cd b { display: block; font: 500 34px "Cormorant Garamond", serif; color: var(--gold2); }
+
+.cd span { font-size: 12px; color: var(--mu); }
+
+section { padding: 80px 5vw; }
+
+.wrap { max-width: 1180px; margin: auto; }
+
+.ttl { text-align: center; margin-bottom: 46px; }
+
+.ttl h2 { font-size: clamp(34px, 5vw, 54px); }
+
+.ttl p { color: var(--mu); margin: 8px 0px 0px; }
+
+.ttl::after { content: ""; display: block; width: 60px; height: 1px; background: var(--gold); margin: 20px auto 0px; }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 26px; }
+
+.pc { background: var(--card); border: 1px solid var(--ln); display: flex; flex-direction: column; }
+
+.pc .im { background: var(--bg2); padding: 22px; display: grid; place-items: center; }
+
+.pc .im img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; display: block; }
+
+.pc .im:has(img) { padding: 0px; }
+
+.f-prev { margin-top: 8px; display: flex; align-items: center; gap: 12px; }
+
+.f-prev img { width: 96px; height: 96px; object-fit: cover; border: 1px solid var(--ln); }
+
+.pc .im svg { width: 78%; max-width: 210px; filter: drop-shadow(rgba(0, 0, 0, 0.35) 0px 12px 18px); }
+
+.pc .bd { padding: 20px; display: flex; flex-direction: column; gap: 10px; flex: 1 1 0%; }
+
+.pc h3 { font-size: 24px; }
+
+.pr { color: var(--gold2); font: 500 20px "Cormorant Garamond", serif; }
+
+.bar { height: 3px; background: var(--ln); }
+
+.bar i { display: block; height: 100%; background: var(--gold); }
+
+.sm { font-size: 13px; color: var(--mu); }
+
+select, input, textarea { width: 100%; background: var(--bg); border: 1px solid var(--ln); padding: 10px 12px; }
+
+label { display: block; font-size: 13px; color: var(--mu); margin: 12px 0px 4px; }
+
+.steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0px; border: 1px solid var(--ln); }
+
+.steps div { padding: 28px 22px; border-right: 1px solid var(--ln); }
+
+.steps h3 { font-size: 22px; color: var(--gold); margin-bottom: 6px; }
+
+.ov { position: fixed; inset: 0px; background: rgba(5, 9, 18, 0.72); z-index: 80; display: flex; align-items: center; justify-content: center; padding: 16px; overflow: auto; }
+
+.md { background: var(--card); border: 1px solid var(--gold); width: 100%; max-width: 540px; padding: 30px; max-height: 92vh; overflow: auto; }
+
+.md h2 { font-size: 32px; margin-bottom: 6px; }
+
+.tabs { display: flex; border-bottom: 1px solid var(--ln); margin: 14px 0px; }
+
+.tabs a { flex: 1 1 0%; text-align: center; padding: 9px; cursor: pointer; color: var(--mu); font-size: 14px; }
+
+.tabs a.on { color: var(--gold); border-bottom: 2px solid var(--gold); }
+
+.dr { position: fixed; top: 0px; right: 0px; bottom: 0px; width: min(420px, 100%); background: var(--card); border-left: 1px solid var(--gold); z-index: 90; padding-right: 26px; padding-bottom: 26px; padding-left: 26px; overflow: auto; padding-top: calc(26px + env(safe-area-inset-top,0px)); }
+
+.row { display: flex; gap: 10px; align-items: center; justify-content: space-between; padding: 12px 0px; border-bottom: 1px solid var(--ln); }
+
+.qty button { width: 26px; height: 26px; border: 1px solid var(--ln); background: none; cursor: pointer; }
+
+.toast { position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom,0px)); transform: translateX(-50%); background: var(--gold); color: rgb(16, 24, 40); padding: 12px 24px; z-index: 99; box-shadow: rgba(0, 0, 0, 0.3) 0px 8px 20px; border-radius: 4px; }
+
+.err { color: var(--err); font-size: 13px; margin-top: 8px; }
+
+.tw { overflow-x: auto; }
+
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+
+th, td { text-align: left; padding: 11px 10px; border-bottom: 1px solid var(--ln); vertical-align: top; }
+
+th { color: var(--gold); font-weight: 500; }
+
+.st { display: inline-block; padding: 2px 12px; border: 1px solid var(--gold); color: var(--gold2); font-size: 12px; border-radius: 99px; }
+
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 18px; margin-bottom: 34px; }
+
+.stats div { border: 1px solid var(--ln); padding: 22px; background: var(--card); }
+
+.stats b { display: block; font: 500 34px "Cormorant Garamond", serif; color: var(--gold2); }
+
+.oc { border: 1px solid var(--ln); background: var(--card); padding: 22px; margin-bottom: 18px; }
+
+footer { text-align: center; padding: 50px 5vw; border-top: 1px solid var(--ln); color: var(--mu); font-size: 14px; }
+
+.two { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+
+@media (max-width: 640px) {
+  nav { gap: 12px; flex-wrap: wrap; }
+  .two { grid-template-columns: 1fr; }
+  .cd div { min-width: 62px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; scroll-behavior: auto !important; }
+}
+
+.ann { background: var(--gold); color: rgb(16, 24, 40); text-align: center; padding: 8px 5vw; font-size: 14px; letter-spacing: 0.04em; }
+
+.tabs { overflow-x: auto; }
+
+.tabs a { white-space: nowrap; padding: 9px 16px; }
+
+.pay-box { border: 1px solid var(--gold); background: var(--bg2); padding: 16px; border-radius: 8px; margin: 14px 0px; }
+
+.pay-qris { width: 100%; max-width: 280px; display: block; margin: 12px auto; border: 1px solid var(--gold); border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.4) 0px 6px 16px; }
+
+.admin-card { border: 1px solid var(--ln); background: var(--bg2); padding: 14px; margin-top: 10px; display: flex; align-items: center; gap: 14px; }
+
+.admin-avatar { width: 48px; height: 48px; border-radius: 50%; background: var(--gold); color: rgb(16, 24, 40); display: grid; place-items: center; font-weight: bold; font-size: 18px; flex-shrink: 0; overflow: hidden; border: 1px solid var(--gold); }
+
+.admin-avatar img { width: 100%; height: 100%; object-fit: cover; }
+
+.copy-btn { cursor: pointer; background: var(--gold); color: rgb(16, 24, 40); border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 3px 8px; font-size: 11px; font-weight: bold; border-radius: 4px; margin-left: 6px; }
+------MultipartBoundary--HyWDkI57usHH1xQfwZtfoZXYYfNMQKlwPrfhTdMadW----
+Content-Type: text/html
+Content-ID: <frame-27F1B19DA0219425D3E98BDA995E2F9A@mhtml.blink>
+Content-Transfer-Encoding: binary
+
+<!DOCTYPE html><html class="nl-narrow" style="--nl-vw: 384px; --nl-vh: 722px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-00001ddb-6a93-4e5c-8000-b7b1a9d1cb4b@mhtml.blink" /><meta name="color-scheme" content="dark"></head><body>
+      <div class="nl-wrap">
+        <section class="nl-card" id="nl-card" aria-label="Build your own site on Netlify">
+          <button type="button" class="nl-icon-btn nl-tap nl-card-close" id="nl-card-close" aria-label="Close"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true"><path d="M4.5 4.5 11.5 11.5M11.5 4.5 4.5 11.5"></path></svg></button>
+          <h2><em>Build your own site with Netlify</em></h2>
+          <p>Describe what you want, and an AI agent designs, builds and deploys it in minutes.</p>
+          <form class="nl-prompt" action="https://app.netlify.com/start" method="get" target="_blank" rel="noopener">
+            <textarea name="prompt" rows="2" required="" maxlength="300" autocomplete="off" enterkeyhint="go" placeholder="A shop for my handmade surfboards…" aria-label="Describe the site you want to build"></textarea>
+            <button type="submit" class="nl-send nl-tap" aria-label="Build this site"><svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 12.75v-9.5M3.9 7.35 8 3.25l4.1 4.1"></path></svg></button>
+            
+            
+            
+            
+            
+            
+          </form>
+          <div class="nl-or"><span>or</span></div>
+          <a class="nl-drop" href="https://app.netlify.com/drop?utm_source=netlify_badge&amp;utm_campaign=loops&amp;utm_medium=owned&amp;utm_content=drop&amp;utm_id=fa794f74-5748-4bee-b1ae-27b602dcee44" target="_blank" rel="noopener">
+            <span>Drop a site you already have</span><span class="nl-arrow" aria-hidden="true">→</span>
+          </a>
+          
+        </section>
+        <button type="button" class="nl-badge" id="nl-badge" aria-expanded="false" aria-controls="nl-card" aria-label="Powered by Netlify — build your own site">
+          <svg width="18" height="18" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+    <path fill="#fff" d="M17.9922 18.3225H14.005L13.6746 17.9921V14.005L14.005 13.6746H17.9922L18.3226 14.005V17.9921L17.9922 18.3225Z"></path>
+    <g fill="#05BDBA">
+      <path d="M9.6958 24.3311H9.35705L7.6661 22.6401V22.3041L10.2511 19.7164L12.042 19.7191L12.2808 19.9552V21.7461L9.6958 24.3311Z"></path>
+      <path d="M7.6661 9.69576V9.35701L9.35705 7.66606H9.6958L12.2808 10.2511V12.0392L12.042 12.2808H10.2511L7.6661 9.69576Z"></path>
+      <path d="M10.0457 17.4369H0.205466L0 17.2314V14.7658L0.205466 14.5603H10.0457L10.2511 14.7658V17.2314L10.0457 17.4369Z"></path>
+      <path d="M31.7945 17.4369H21.9544L21.7489 17.2314V14.7658L21.9544 14.5603H31.7945L32 14.7658V17.2314L31.7945 17.4369Z"></path>
+      <path d="M14.5631 10.0456V2.66547L14.7686 2.46001H17.2343L17.4396 2.66547V10.0456L17.2343 10.2511H14.7686L14.5631 10.0456Z"></path>
+      <path d="M14.5631 29.3316V21.9515L14.7686 21.746H17.2343L17.4396 21.9515V29.3316L17.2343 29.5371H14.7686L14.5631 29.3316Z"></path>
+    </g></svg>
+          <span><span class="nl-badge-label">Powered by</span> <span class="nl-badge-brand">Netlify</span></span>
+        </button>
+      </div>
+      
+    </body></html>
+------MultipartBoundary--HyWDkI57usHH1xQfwZtfoZXYYfNMQKlwPrfhTdMadW----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-00001ddb-6a93-4e5c-8000-b7b1a9d1cb4b@mhtml.blink
+
+@charset "utf-8";
+
+:root { --nl-vw: 384px; --nl-vh: 722px; }
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0px; padding: 0px; background: transparent; overflow: hidden; }
+
+body { display: flex; align-items: flex-end; justify-content: flex-end; height: 100vh; padding: 8px 18px 18px 8px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; color: rgb(244, 249, 249); -webkit-font-smoothing: antialiased; }
+
+.nl-wrap { display: flex; flex-direction: column; align-items: flex-end; gap: 10px; width: max-content; max-width: calc(var(--nl-vw,100vw) - 26px); }
+
+button { font-family: inherit; cursor: pointer; }
+
+:focus-visible { outline: rgb(50, 230, 226) solid 2px; outline-offset: 2px; border-radius: 6px; }
+
+.nl-icon-btn { position: relative; flex: 0 0 auto; width: 30px; height: 30px; display: inline-flex; align-items: center; justify-content: center; border-radius: 8px; border: 1px solid transparent; background: transparent; color: rgb(213, 227, 230); transition: background 0.15s, color 0.15s; }
+
+.nl-icon-btn:hover { background: rgba(255, 255, 255, 0.08); color: rgb(244, 249, 249); }
+
+.nl-tap::after { content: ""; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: max(100%, 44px); height: max(100%, 44px); }
+
+@keyframes nl-rise { 
+  0% { opacity: 0; transform: translateY(10px) scale(0.97); }
+  100% { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.01ms !important; transition: none !important; }
+}
+
+.nl-card { position: relative; display: none; width: min(340px,calc(var(--nl-vw,100vw) - 26px)); max-height: calc(var(--nl-vh,100vh) - 84px); overflow-y: auto; background: linear-gradient(rgb(19, 40, 50) 0%, rgb(14, 30, 37) 100%); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 18px; padding: 18px; transform-origin: right bottom; animation: 0.3s cubic-bezier(0.34, 1.4, 0.4, 1) 0s 1 normal both running nl-rise; }
+
+.nl-card.open { display: block; }
+
+.nl-card-close { position: absolute; top: 10px; right: 10px; }
+
+.nl-card h2 { margin: 0px; padding-right: 30px; font-size: 16px; font-weight: 750; letter-spacing: -0.015em; line-height: 1.35; }
+
+.nl-card h2 em { font-style: normal; background: linear-gradient(90deg, rgb(50, 230, 226), rgb(77, 124, 254), rgb(154, 107, 255)) text; -webkit-text-fill-color: transparent; color: transparent; }
+
+.nl-card p { margin: 8px 0px 0px; font-size: 12.5px; color: rgb(213, 227, 230); }
+
+.nl-prompt { position: relative; margin-top: 14px; background: rgb(16, 34, 43); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 14px; padding: 10px 12px; transition: border-color 0.15s, box-shadow 0.15s; }
+
+.nl-prompt:focus-within { border-color: rgb(5, 189, 186); box-shadow: rgba(5, 189, 186, 0.18) 0px 0px 0px 3px; }
+
+.nl-prompt textarea { display: block; width: 100%; height: 38px; resize: none; border: 0px; outline: none; background: transparent; color: rgb(244, 249, 249); font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; font-size: 13px; line-height: 19px; padding: 0px 28px 0px 0px; }
+
+.nl-prompt textarea::placeholder { color: rgb(169, 189, 194); }
+
+.nl-send { position: absolute; right: 9px; bottom: 9px; width: 24px; height: 24px; flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; border: 0px; border-radius: 50%; background: rgb(5, 189, 186); color: rgb(2, 25, 27); transition: background 0.15s; }
+
+.nl-send:hover { background: rgb(50, 230, 226); }
+
+@media (pointer: coarse) {
+  .nl-prompt textarea { font-size: 16px; line-height: 21px; height: 42px; }
+}
+
+.nl-or { display: flex; align-items: center; gap: 10px; margin: 12px 0px; font-size: 10.5px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgb(169, 189, 194); }
+
+.nl-or::before, .nl-or::after { content: ""; flex: 1 1 0%; height: 1px; background: rgba(255, 255, 255, 0.09); }
+
+.nl-drop { display: flex; align-items: center; justify-content: space-between; gap: 6px; text-decoration: none; background: rgb(27, 58, 69); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 10px; padding: 10px 12px; font-size: 13px; font-weight: 600; color: rgb(207, 224, 227); transition: background 0.15s, color 0.15s, border-color 0.15s; }
+
+.nl-drop:hover { background: rgb(34, 71, 83); color: rgb(244, 249, 249); border-color: rgba(50, 230, 226, 0.3); }
+
+.nl-drop .nl-arrow { transition: transform 0.18s cubic-bezier(0.34, 1.4, 0.4, 1); }
+
+.nl-drop:hover .nl-arrow { transform: translateX(3px); }
+
+.nl-badge { display: flex; align-items: center; gap: 9px; white-space: nowrap; border: 1px solid rgba(255, 255, 255, 0.09); background: linear-gradient(rgb(20, 43, 52), rgb(14, 30, 37)); color: rgb(244, 249, 249); border-radius: 999px; padding: 9px 14px 9px 11px; font-size: 13px; font-weight: 600; letter-spacing: 0.01em; transition: border-color 0.2s; }
+
+.nl-badge:hover { border-color: rgba(50, 230, 226, 0.26); }
+
+.nl-hide { display: block; width: 100%; margin-top: 10px; border: 0px; background: transparent; color: rgb(169, 189, 194); font-size: 11.5px; font-weight: 600; padding: 4px; border-radius: 8px; transition: color 0.15s; }
+
+.nl-hide:hover { color: rgb(213, 227, 230); text-decoration: underline; }
+
+.nl-badge-label { color: rgb(213, 227, 230); font-weight: 500; }
+
+.nl-badge-brand { font-weight: 750; }
+------MultipartBoundary--HyWDkI57usHH1xQfwZtfoZXYYfNMQKlwPrfhTdMadW------
